@@ -13,12 +13,12 @@
 
 ## task2
 
-其实只要知道终端启动会自动执行一遍.bashrc就行了，挺简单的，所以我决定让gpt写了个更炫酷的动画。
+其实只要知道终端启动会自动执行一遍.bashrc就行了，挺简单的，所以我决定让gpt写了个小动画。
 
-原脚本: task2raw.sh
-炫酷动画: taks2.sh
-演示: task2.mkv
-参考视频: [PRTS开机动画](https://www.bilibili.com/video/BV1Gx4y1V747)
+- [原脚本](../src/task2raw.sh)
+- [动画](../src/task2.sh)
+- [演示](../src/task2.mkv)
+- [参考视频](https://www.bilibili.com/video/BV1Gx4y1V747)
 
 ---
 
@@ -29,3 +29,11 @@
 ### 参考教程
 
 - [我自己](https://github.com/yq53/demo)
+
+---
+
+## 学习进度
+
+学了学yolo模型的训练以及使用tensorrt在nvidia gpu上完成模型部署以及推理输出。
+
+- [tensorrt demo](https://github.com/yq53/tensorrt_cpp_demo)
